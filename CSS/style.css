@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzTDiQTT6FLGHRWtZoWJWNwbxO-XCFdtGGgvHFw4A2X_I1FEuPJAm65itrwMsk-rsdbnU&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%,-50%);
+    width:390px;
+    overflow: hidden;
+    background: rgb(17, 17, 17);
+    padding: 40px;
+    color: #fff;
+    border-radius: 10px;
+}
